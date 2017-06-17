@@ -1,7 +1,17 @@
 body{
   background-color: #4b367c;
+  font-family: 'Poppins', sans-serif;
 }
-.container{
-  background-color: white;
 
+img{
+  width: 100px;
+  border-radius: 50%;
+}
+
+.row {
+  margin: 10px;
+  background-color: white;
+  padding: 10px;
+  font-family: 'Merriweather Sans', sans-serif;
+  border-radius: 5px;
 }
